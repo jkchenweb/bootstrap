@@ -33,13 +33,13 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #031757;
 }
 
 .carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(49, 38, 196, 0.5);
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #031757;
 }
